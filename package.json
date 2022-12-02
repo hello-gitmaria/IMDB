@@ -1,0 +1,25 @@
+{
+  "name": "imdb",
+  "version": "1.0.0",
+  "description": "",
+  "main": "imdb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/melendezcabreram/IMDB.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/melendezcabreram/IMDB/issues"
+  },
+  "homepage": "https://github.com/melendezcabreram/IMDB#readme",
+  "devDependencies": {
+    "@types/node": "^18.11.9"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
